@@ -3,7 +3,7 @@
 
 - **Laravel Framework** 12
 - **PHP** 8
-- **MySQLSQL** 16.8
+- **MySQLS** 
 
 ## Шаги по установке
 
