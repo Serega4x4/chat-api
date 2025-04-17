@@ -34,7 +34,7 @@ services:
     container_name: mysql-db
     restart: unless-stopped
     environment:
-      MYSQL_ROOT_PASSWORD: 10071988Asd!
+      MYSQL_ROOT_PASSWORD: ТВОЙ_ПАРОЛЬ
       MYSQL_DATABASE: chat_db
     ports:
       - "3306:3306"
